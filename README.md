@@ -113,17 +113,6 @@ lib/
 ├── main.dart            # Point d'entrée principal de l'application
 ```
 
----
-
-1. Implémenter une fonctionnalité de paiement pour finaliser les commandes.
-2. Ajouter des catégories de vêtements pour une navigation plus intuitive.
-3. Implémenter une fonctionnalité de recherche dans les vêtements.
-4. Permettre aux utilisateurs de noter et commenter les articles.
-5. Ajouter des notifications push pour les mises à jour ou offres.
-6. Développer un module d'IA et le déployer dans une API pour la catégorisation automatique des vêtements.
-
----
-
 ## **Captures d'écran**
 
 1. **Page Acheter** :
